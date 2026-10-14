@@ -1,0 +1,10 @@
+HTML:
+nothing
+CSS:
+1> we need to specify what dark is
+   white was misspelled as whit
+JS:
+2> misspelled toggle
+3> misspelled body
+4> function needs a parantheses
+   needs to be before event listener
